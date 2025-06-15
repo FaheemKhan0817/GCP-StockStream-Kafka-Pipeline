@@ -1,3 +1,4 @@
 keys/stockstream-service-account-key.json
 __pycache__/
 indexProcessed.csv
+config/kafka_config.py
