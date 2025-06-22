@@ -91,7 +91,7 @@ stock-data-pipeline/
 
 ### Looker Studio Dashboard
 - **Access**: [Link to your Looker Studio dashboard](https://lookerstudio.google.com/reporting/0e249b43-9518-4186-b2df-1242a4c8caa3)
-- **Offline** [C:\Data Engineering Projects\GCP StockStream Kafka Pipeline\Stock_Data_Analytics_Dashboard.pdf]
+- **Offline**: [Stock_Data_Analytics_Dashboard.pdf](https://github.com/FaheemKhan0817/GCP-StockStream-Kafka-Pipeline/blob/main/Stock_Data_Analytics_Dashboard.pdf)
 - **Features**:
   - **Line Chart**: Closing price trends over time.
   - **Bar Chart**: Total volume by index.
